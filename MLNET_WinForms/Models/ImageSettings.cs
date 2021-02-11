@@ -1,0 +1,12 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace MLNET_WinForms.Models
+{
+    public class ImageSettings
+    {
+        public const int imageHeight = 416;
+        public const int imageWidth = 416;
+    }
+}
